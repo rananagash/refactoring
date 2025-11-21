@@ -1,3 +1,4 @@
+671b410 Task 2.2: Extract volume credits calculation to getVolumeCredits method
 8372475 Task 2.1: Extract switch logic to getAmount method, extract getPlay method, inline variables
 504c4d6 Task 1.2: Update git log
 23d0ed5 Task 1.1: Fix CheckStyle issues
