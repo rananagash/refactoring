@@ -1,3 +1,5 @@
+45557a4 Fix checkstyle issues
+dbf40a3 Final log.txt update
 8ee0698 Task 2.4: Split loop and extract total volume credits and total amount methods
 679eb7c Task 2.3: Remove frmt variable and extract usd method
 671b410 Task 2.2: Extract volume credits calculation to getVolumeCredits method
