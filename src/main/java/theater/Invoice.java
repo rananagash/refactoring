@@ -1,13 +1,12 @@
 package theater;
 
-import java.util.List;
 import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Class representing an invoice for a customer.
  */
 public final class Invoice {
-
     private final String customer;
     private final List<Performance> performances;
 
