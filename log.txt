@@ -1,3 +1,5 @@
+1c0b7f3 fix checkstyle
+fb55b1a update log
 45557a4 Fix checkstyle issues
 dbf40a3 Final log.txt update
 8ee0698 Task 2.4: Split loop and extract total volume credits and total amount methods
